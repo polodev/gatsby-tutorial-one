@@ -1,0 +1,2 @@
+webpackJsonp([0xc6c285f8fd10],{195:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(6),a=u(n),d=l(98),f=u(d);t.default=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Hello world from 2nd page"),a.default.createElement(f.default,{to:"/"},"Home"))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-page-2-js-84bf553b6444bb14c577.js.map
